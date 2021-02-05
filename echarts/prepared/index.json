@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-prepared",
-      "url": "http://localhost:3000/prepared/main.js",
+      "url": "http://localhost:3000/echarts/prepared/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
